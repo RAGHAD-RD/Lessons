@@ -81,8 +81,6 @@ ksort($array);
 ?>
 
 
-
-
 <?php
 
 // 1. strlen() 
